@@ -1,28 +1,73 @@
+@font-face {
+  font-family:planets ;
+  src: url(planets/Planets.otf);
+}
 h1 {
     color: black;
     background-color: aqua;
+    letter-spacing: 20px;
+    word-spacing: 40px;
 
-    font-size: 40px;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 10px;
-    border-radius: 10px;
 }
  p{
    color: blue;
-   text-align: center;
 
  }
   h1{
     color: red;
-    background-color: yellow;
-    font-size: 60px;
-    text-align: center;
-    
-    
-    
- 
+  
 
 
   }
+  h2 {
+       text-decoration:overline;
+       color: purple;
+
+  }
+  h3 {
+    text-decoration:underline;
+    color: green;
+
+
+  }
+h4 {
+    text-decoration:line-through ;
+    color: yellow;
+
+}
+#p1{
+color: blue;
+text-align: center;
+background-color: brown;
+
+
+}
+#p2{
+
+  color: antiquewhite;
+  text-align: center;
+  background-color: azure;
+} 
+#p3{
+color: blanchedalmond;
+text-align: center;
+background-color: lawngreen;
+
+}
+a:link{
+  color: red;
+}
+a:visited{
+color: aquamarine;
+
+}
+a:hover{
+color: blue;
+
+}
+a:active{
+
+  color: blueviolet;
+}
+       
    

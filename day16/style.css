@@ -20,19 +20,20 @@ div.decs{
 
 .sprite{
     background-image:url(images/merge.jpg) ;
+    background-repeat: no-repeat;
  
 }
 
 .image1{
     width: 500px;
     height: 500px;
-    background-position: -0px -0px;
+    background-position: 0px 0px;
     display: inline-block;
 }
 
 .image2{
     width: 500px;
     height: 500px;
-    background-position: -500px -0px;
+    background-position: -500px 0px;
     display: inline-block;
 }

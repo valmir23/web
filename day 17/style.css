@@ -1,0 +1,55 @@
+a[href="https://shkolladigjitale.com/"]{
+    color: blue;
+} 
+
+p[class*="ds"]{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+}
+
+p{
+    background-color: rgb(0, 255, 170);
+    color: rgb(132, 0, 255);
+    padding: 20px;
+}
+
+div[id~="ds"]{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-family: fantasy;
+}
+
+img[title^="blue"]{
+    border: 2px solid blue;
+    padding: 10px;
+    
+}
+
+h1[class |="heading"]{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+
+input[placeholder $="name"]{
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+input[readonly]{
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    border: none;
+}
+    
+
+
+
+
+
+
+

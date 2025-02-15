@@ -137,7 +137,7 @@ div#transition{
 }
 
 div#transition:hover{
-    background: rgb(255, 0, 0);
+    background: rgb(70, 0, 0);
     border-radius: 50%;
 }
 
